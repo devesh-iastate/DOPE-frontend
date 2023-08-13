@@ -17,9 +17,9 @@ Access my site at [DataLoader.vercel.app](dataloader.vercel.app)
 Dope Portal aims to gather data from various universities and research centers across the United States, focusing on collecting test results related to solar panels. The accumulated data will be stored and utilized to enhance the performance of solar panels through the process of doping.
 
 ## Screenshots
-![Portal](readmeResource\img1.jpg)
-![QRCode](readmeResource\img2.jpg)
-![Login Portal](readmeResource\img3.jpg)
+![Portal](readmeResource/img1.jpg)
+![QRCode](readmeResource/img2.jpg)
+![Login Portal](readmeResource/img3.jpg)
 
 
 
